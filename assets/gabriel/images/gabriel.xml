@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gabriel.png">
+<!-- NOT created with adobe animate... I had to make this myself :woeisme:--> <!--AAAAAAAAAAAA-->
+    <SubTexture name="gabidle0000" x="570" y="16" width="120" height="350"/> 
+    <SubTexture name="gabidle0002" x="570" y="16" width="120" height="350"/>
+    <SubTexture name="gabidle0003" x="570" y="16" width="120" height="350"/>
+    <SubTexture name="gabidle0004" x="570" y="16" width="120" height="350"/>
+    <SubTexture name="gabidle0005" x="570" y="16" width="120" height="350"/>
+    <SubTexture name="gabidle0006" x="570" y="16" width="120" height="350"/>
+    <SubTexture name="gabidle0007" x="570" y="16" width="120" height="350"/>
+    <SubTexture name="gabidle0008" x="570" y="16" width="120" height="350"/>
+    <SubTexture name="gabidle0009" x="570" y="16" width="120" height="350"/>
+    <SubTexture name="gabidle0010" x="570" y="16" width="120" height="350"/>
+    <SubTexture name="gabidle0011" x="570" y="16" width="120" height="350"/>
+    <SubTexture name="gabidle0012" x="570" y="16" width="120" height="350"/>
+    <SubTexture name="gabidle0013" x="570" y="16" width="120" height="350"/>
+    <SubTexture name="gabidle0014" x="570" y="16" width="120" height="350"/>
+    <SubTexture name="gabidle0015" x="570" y="16" width="120" height="350"/>
+    <SubTexture name="gabidle0016" x="570" y="16" width="120" height="350"/>
+    <SubTexture name="gabidle0017" x="570" y="16" width="120" height="350"/>
+    <SubTexture name="gabidle0018" x="570" y="16" width="120" height="350"/>
+    <SubTexture name="gabidle0019" x="570" y="16" width="120" height="350"/>
+    <SubTexture name="gabidle0020" x="570" y="16" width="120" height="350"/>
+    <SubTexture name="gableft0000" x="0" y ="0" width="238" height ="301"/> 
+    <SubTexture name="gableft0001" x="0" y ="0" width="238" height ="301"/>
+    <SubTexture name="gableft0002" x="0" y ="0" width="238" height ="301"/>
+    <SubTexture name="gableft0003" x="0" y ="0" width="238" height ="301"/>
+    <SubTexture name="gableft0004" x="0" y ="0" width="238" height ="301"/>
+    <SubTexture name="gableft0005" x="0" y ="0" width="238" height ="301"/>
+    <SubTexture name="gableft0006" x="0" y ="0" width="238" height ="301"/>
+    <SubTexture name="gableft0007" x="0" y ="0" width="238" height ="301"/>
+    <SubTexture name="gableft0008" x="0" y ="0" width="238" height ="301"/>
+    <SubTexture name="gableft0009" x="0" y ="0" width="238" height ="301"/>
+    <SubTexture name="gableft0010" x="0" y ="0" width="238" height ="301"/>
+    <SubTexture name="gableft0011" x="0" y ="0" width="238" height ="301"/>
+    <SubTexture name="gableft0012" x="0" y ="0" width="238" height ="301"/>
+    <SubTexture name="gableft0013" x="0" y ="0" width="238" height ="301"/>
+    <SubTexture name="gableft0014" x="0" y ="0" width="238" height ="301"/>
+    <SubTexture name="gableft0015" x="0" y ="0" width="238" height ="301"/>
+    <SubTexture name="gableft0016" x="0" y ="0" width="238" height ="301"/>
+    <SubTexture name="gableft0017" x="0" y ="0" width="238" height ="301"/>
+    <SubTexture name="gableft0018" x="0" y ="0" width="238" height ="301"/>
+    <SubTexture name="gableft0019" x="0" y ="0" width="238" height ="301"/>
+    <SubTexture name="gableft0020" x="0" y ="0" width="238" height ="301"/>
+    <SubTexture name="gabright0000" x="282" y="0" width="151" height="433"/> 
+    <SubTexture name="gabright0001" x="282" y="0" width="151" height="433"/>
+    <SubTexture name="gabright0002" x="282" y="0" width="151" height="433"/>
+    <SubTexture name="gabright0003" x="282" y="0" width="151" height="433"/>
+    <SubTexture name="gabright0004" x="282" y="0" width="151" height="433"/>
+    <SubTexture name="gabright0005" x="282" y="0" width="151" height="433"/>
+    <SubTexture name="gabright0006" x="282" y="0" width="151" height="433"/>
+    <SubTexture name="gabright0007" x="282" y="0" width="151" height="433"/>
+    <SubTexture name="gabright0008" x="282" y="0" width="151" height="433"/>
+    <SubTexture name="gabright0009" x="282" y="0" width="151" height="433"/>
+    <SubTexture name="gabright0010" x="282" y="0" width="151" height="433"/>
+    <SubTexture name="gabright0011" x="282" y="0" width="151" height="433"/>
+    <SubTexture name="gabright0012" x="282" y="0" width="151" height="433"/>
+    <SubTexture name="gabright0013" x="282" y="0" width="151" height="433"/>
+    <SubTexture name="gabright0014" x="282" y="0" width="151" height="433"/>
+    <SubTexture name="gabright0015" x="282" y="0" width="151" height="433"/>
+    <SubTexture name="gabright0016" x="282" y="0" width="151" height="433"/>
+    <SubTexture name="gabright0017" x="282" y="0" width="151" height="433"/>
+    <SubTexture name="gabright0018" x="282" y="0" width="151" height="433"/>
+    <SubTexture name="gabright0019" x="282" y="0" width="151" height="433"/>
+    <SubTexture name="gabright0020" x="282" y="0" width="151" height="433"/>
+    <SubTexture name="gabdown0000" x="0" y ="389" width="128" height ="318"/> 
+    <SubTexture name="gabdown0001" x="0" y ="389" width="128" height ="318"/>
+    <SubTexture name="gabdown0002" x="0" y ="389" width="128" height ="318"/>
+    <SubTexture name="gabdown0003" x="0" y ="389" width="128" height ="318"/>
+    <SubTexture name="gabdown0004" x="0" y ="389" width="128" height ="318"/>
+    <SubTexture name="gabdown0005" x="0" y ="389" width="128" height ="318"/>
+    <SubTexture name="gabdown0006" x="0" y ="389" width="128" height ="318"/>
+    <SubTexture name="gabdown0007" x="0" y ="389" width="128" height ="318"/>
+    <SubTexture name="gabdown0008" x="0" y ="389" width="128" height ="318"/>
+    <SubTexture name="gabdown0009" x="0" y ="389" width="128" height ="318"/>
+    <SubTexture name="gabdown0010" x="0" y ="389" width="128" height ="318"/>
+    <SubTexture name="gabdown0011" x="0" y ="389" width="128" height ="318"/>
+    <SubTexture name="gabdown0012" x="0" y ="389" width="128" height ="318"/>
+    <SubTexture name="gabdown0013" x="0" y ="389" width="128" height ="318"/>
+    <SubTexture name="gabdown0014" x="0" y ="389" width="128" height ="318"/>
+    <SubTexture name="gabdown0015" x="0" y ="389" width="128" height ="318"/>
+    <SubTexture name="gabdown0016" x="0" y ="389" width="128" height ="318"/>
+    <SubTexture name="gabdown0017" x="0" y ="389" width="128" height ="318"/>
+    <SubTexture name="gabdown0018" x="0" y ="389" width="128" height ="318"/>
+    <SubTexture name="gabdown0019" x="0" y ="389" width="128" height ="318"/>
+    <SubTexture name="gabdown0020" x="0" y ="389" width="128" height ="318"/>
+    <SubTexture name="gabup0000" x="272" y="402" width="126" height="308"/> 
+    <SubTexture name="gabup0001" x="272" y="402" width="126" height="308"/>
+    <SubTexture name="gabup0002" x="272" y="402" width="126" height="308"/>
+    <SubTexture name="gabup0003" x="272" y="402" width="126" height="308"/>
+    <SubTexture name="gabup0004" x="272" y="402" width="126" height="308"/>
+    <SubTexture name="gabup0005" x="272" y="402" width="126" height="308"/>
+    <SubTexture name="gabup0006" x="272" y="402" width="126" height="308"/>
+    <SubTexture name="gabup0007" x="272" y="402" width="126" height="308"/>
+    <SubTexture name="gabup0008" x="272" y="402" width="126" height="308"/>
+    <SubTexture name="gabup0010" x="272" y="402" width="126" height="308"/>
+    <SubTexture name="gabup0011" x="272" y="402" width="126" height="308"/>
+    <SubTexture name="gabup0012" x="272" y="402" width="126" height="308"/>
+    <SubTexture name="gabup0013" x="272" y="402" width="126" height="308"/>
+    <SubTexture name="gabup0014" x="272" y="402" width="126" height="308"/>
+    <SubTexture name="gabup0015" x="272" y="402" width="126" height="308"/>
+    <SubTexture name="gabup0016" x="272" y="402" width="126" height="308"/>
+    <SubTexture name="gabup0017" x="272" y="402" width="126" height="308"/>
+    <SubTexture name="gabup0018" x="272" y="402" width="126" height="308"/>
+    <SubTexture name="gabup0019" x="272" y="402" width="126" height="308"/>
+    <SubTexture name="gabup0020" x="272" y="402" width="126" height="308"/>
+</TextureAtlas>
