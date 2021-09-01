@@ -127,7 +127,7 @@ class TitleState extends MusicBeatState
 		});
 		#end
 	}
-	//var titlebg:FlxSprite;   //Decided to not use because its not needed lmao
+	//var titlebg:FlxSprite;   //Decided to not use because its not needed
 	var logoBl:FlxSprite;
 	var gfDance:FlxSprite;
 	var danceLeft:Bool = false;
@@ -172,7 +172,7 @@ class TitleState extends MusicBeatState
 		add(bg);
 
 		if(Main.watermarks) {
-			logoBl = new FlxSprite(140, -100);
+			logoBl = new FlxSprite(140, -30);
 			logoBl.frames = Paths.getSparrowAtlas('KadeEngineLogoBumpin');
 			logoBl.antialiasing = true;
 			logoBl.animation.addByPrefix('bump', 'logo bumpin', 24);
@@ -316,7 +316,7 @@ class TitleState extends MusicBeatState
 			{
 				// Get current version of Kade Engine
 				
-				var http = new haxe.Http("https://raw.githubusercontent.com/KadeDev/Kade-Engine/master/version.downloadMe");
+				var http = new haxe.Http("https://raw.githubusercontent.com/GameVasionYT/fnf-gabriel/main/version.downloadMe");
 				var returnedData:Array<String> = [];
 				
 				http.onData = function (data:String)
@@ -445,13 +445,14 @@ class TitleState extends MusicBeatState
 			// credTextShit.text = "Friday";
 			// credTextShit.screenCenter();
 			case 13:
-				addMoreText('Friday');
+				createCoolText(['Friday']);
 			// credTextShit.visible = true;
 			case 14:
-				addMoreText('Night');
+				createCoolText(['', 'Night']);
 			// credTextShit.text += '\nNight';
 			case 15:
-				addMoreText('Funkin'); // credTextShit.text += '\nFunkin';
+
+				createCoolText(['', '', 'Funkin', 'Shopping Week']); // credTextShit.text += '\nFunkin';
 
 			case 16:
 				skipIntro();

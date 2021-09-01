@@ -500,12 +500,12 @@ class Character extends FlxSprite
 				playAnim('idle');
 
 			case 'gabriel':
-				frames = Paths.getSparrowAtlas('characters/gabriel');
-				animation.addByPrefix('idle', 'gabidle', 24, false);
-				animation.addByPrefix('singUP', 'gabup', 24, false);
-				animation.addByPrefix('singRIGHT', 'gabright', 24, false);
-				animation.addByPrefix('singDOWN', 'gabdown', 24, false);
-				animation.addByPrefix('singLEFT', 'gableft', 24, false);
+				frames = Paths.getSparrowAtlas('characters/gabrielbetter');
+				animation.addByPrefix('idle', 'gabrielIdle', 24, false);
+				animation.addByPrefix('singUP', 'gabrielUp', 24, false);
+				animation.addByPrefix('singRIGHT', 'gabrielRight', 24, false);
+				animation.addByPrefix('singDOWN', 'gabrielDown', 24, false);
+				animation.addByPrefix('singLEFT', 'gabrielLeft', 24, false);
 
 				addOffset('idle');
 				addOffset("singUP");

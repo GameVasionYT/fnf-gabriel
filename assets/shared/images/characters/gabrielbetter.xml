@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gabrielbetter.png">
+<SubTexture name="gabrielDown0000" x="0" y="0" width="1924" height="1084"  frameWidth="1924" frameHeight="1084" />
+<SubTexture name="gabrielIdle0000" x="1924" y="0" width="1924" height="1084"  frameWidth="1924" frameHeight="1084" />
+<SubTexture name="gabrielRight0000" x="3848" y="0" width="1924" height="1084"  frameWidth="1924" frameHeight="1084" />
+<SubTexture name="gabrielLeft0000" x="5772" y="0" width="1924" height="1084"  frameWidth="1924" frameHeight="1084" />
+<SubTexture name="gabrielUp0000" x="0" y="1084" width="1924" height="1084" frameWidth="1924" frameHeight="1084" />
+</TextureAtlas>
